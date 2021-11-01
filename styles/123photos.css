@@ -1,0 +1,19 @@
+.section-custom--500{
+min-height: 500px;
+}
+
+.bg-custom--dark {
+    background-color: #504747;
+    color: white;
+}
+
+.bg-custom--light {
+background-color: white;
+color: #504747;
+}
+
+.hero-image{
+  background-image: url("../images/skyline.png");
+  background-size: cover;
+  color:white;  
+}
